@@ -1,0 +1,205 @@
+body{
+
+background: ;}
+.text-Observacoes{
+display: block;
+border: groove;
+border-radius: 4px;
+
+}
+.input-DataVencimento{
+  display: block;
+}
+
+.input-ValorPagamento{
+display: block;
+}
+
+.input-NumFornecedor{
+  display: block;
+}
+
+.input-NumDoc{
+  display: block;
+}
+
+.input-email{
+display: block;
+border-bottom: 1px;
+border:none;
+
+}
+
+.input-nome{
+border: none;
+display: block;
+border-bottom: 1px;
+border-radius: 10px;
+margin-left: 5px;
+border-color: lightslategray;
+background-color:#E0EEEE;
+height: 25px;
+width: 50%;
+outline:0;
+box-shadow: 0 0 4pt 0pt;
+padding-left: 1%;
+}
+.label-nome{
+  margin-left: 7px;
+}
+.teste{
+    border-style: groove; 
+    border-radius: ;}
+     
+.input_nome{
+border-style: groove;
+border-radius: 4px;
+  }
+
+#nome{
+position: relative;
+border-style: none;
+border-radius: 4px;
+width: 174px;
+left: 120px;
+top:40px;
+
+
+}
+
+
+#txtNome{
+position: relative;
+border-style:;
+width: 45px;
+left: 70px;
+top:73px;}
+
+#base{
+border-style:solid;
+position: relative;
+width:700px;
+height:765px;
+left:480px;
+top:100px;
+border: groove;
+border-radius: 5px;
+border-color: lightblue;
+}
+ 
+#email{
+position: relative;
+border-style: none;
+width: 225px;
+left:405px;
+top:-20px;
+}
+
+#txtEmail{
+position:relative;
+border-style:none;
+width: 50px;
+left: 350px;
+top:15px;
+}
+
+#numero_documento{
+position: relative;
+border-style:;
+width:200px;
+top:5px;
+left:236px;
+}
+
+#txtNumDoc{
+position:relative;
+border-style:;
+width:168px;
+top:37px;
+left:70px;
+}
+
+#numero_fornecedor{
+position: relative;
+border-style:;
+width:210px;
+top:15px;
+left:236px;
+}
+
+#txtNumFor{
+position:relative;
+border-style:;
+width:170px;
+top:47px;
+left:70px;
+}
+
+#valor_pagamento{
+position: relative;
+border-style:;
+width:205px;
+top:25px;
+left:236px;
+}
+
+#txtValorPagamento{
+position: relative;
+border-style:;
+width:150px;
+top:58px;
+left:85px;
+}
+
+#data_vencimento{
+position: relative;
+border-style:;
+width:205px;
+top:35px;
+left:236px;
+}
+
+#txtDataVencimento{
+position: relative;
+border-style:;
+width:145px;
+top:67px;
+left:85px;
+}
+
+#observacoes{
+position: relative;
+border-style:;
+width:380px;
+height:120px;
+top:80px;
+left:140px;
+}
+
+#txtObservacoes{
+position: relative;
+border-style:;
+width:100px;
+top:80px;
+left:142px;
+}
+
+#btnEnviarRequisicao{
+position:relative;
+border-style:;
+width:145px;
+top:120px;
+left:265px;
+}
+
+
+h1{
+font-size:30px;
+font-style: italic;
+}
+#comprovantes{
+position:relative;
+border-style:;
+width:260px;
+left:220px;
+}
